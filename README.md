@@ -1,9 +1,8 @@
-# Codes-for-Handwerger-et-al-2021-preprint
+# GEE_scripts_for_Handwerger_et_al_2022_NHESS
 
-This repository contains Google Earth Engine (GEE) codes for generating figures in Handwerger et al. [preprint]. To run the code, you will need a GEE account.
+This repository contains Google Earth Engine (GEE) scripts for generating figures in Handwerger et al. 2022. To run the code, you will need a GEE account.
 
-Please cite the code as: Handwerger, A. L., Jones, S. Y., Amatya, P., Kerner, H. R., Kirschbaum, D. B., and Huang, M.-H.: Strategies for landslide detection using open-access synthetic aperture radar backscatter change in Google Earth Engine
-
+Please cite the code as: Handwerger, A. L., Huang, M.-H., Jones, S. Y., Amatya, P., Kerner, H. R., and Kirschbaum, D. B.: Generating landslide density heatmaps for rapid detection using open-access satellite radar data in Google Earth Engine
 
 You can also access to the codes directly in GEE:
 
